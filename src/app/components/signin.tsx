@@ -40,7 +40,7 @@ export default function SignIn() {
               Create Account
             </button>
             <p className="text-xs">
-              By clicking create account you're agreeing to our
+              By clicking create account you&apos;re agreeing to our
               <br />
               <span>
                 <a href="" className="underline">Terms and Conditions</a>
